@@ -1,4 +1,4 @@
-# Motionix — Setup Guide
+# Websie — Setup Guide
 
 ## Requirements
 - [Node.js](https://nodejs.org/) v18 or higher

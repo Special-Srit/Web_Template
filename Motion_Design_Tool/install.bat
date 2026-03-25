@@ -1,7 +1,7 @@
 @echo off
 echo.
 echo ================================
-echo   Motionix -- Installing...
+echo   Required dependencies -- Installing...
 echo ================================
 echo.
 
